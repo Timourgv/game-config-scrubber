@@ -98,3 +98,7 @@ Closing the window mid-scan cancels the scan cleanly.
 - Keys that do not exist yet in a config are only inserted with `-AddMissing`/the GUI checkbox, and only into Unreal sections that already exist in the file.
 - Games with exotic key names are not hardcoded: extend with `-ExtraDisableKeys` regexes.
 - Run it as the user account that plays the games. No admin rights needed.
+
+## License
+
+[MIT](./LICENSE) — © 2026 Timourgv
